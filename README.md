@@ -4,6 +4,9 @@ Source code for paper: "Discovering Topic Representative Terms for Short Text Cl
 # How to run
 ``` python kwg_discovery_clustering.py -d dataset/Tweet_merged_50  --gamma 30 --theta 0.8 --delta 0.1```
 
+# Requirement
+- Python 3.x
+
 # Results on Tweet dataset
 
 ```
