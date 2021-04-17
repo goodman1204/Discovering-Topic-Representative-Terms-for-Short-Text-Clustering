@@ -1,4 +1,4 @@
-# TRTD
+# Discovering Topic Representative Terms for Short Text Clustering (TRTD)
 Source code for paper: "[Discovering Topic Representative Terms for Short Text Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8756216)" 
 
 # How to run
