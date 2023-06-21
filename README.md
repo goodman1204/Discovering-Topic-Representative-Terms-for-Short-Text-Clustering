@@ -9,7 +9,7 @@ Source code for paper: "[Discovering Topic Representative Terms for Short Text C
 
 # short text dataset
 - The [Tweet dataset](https://github.com/goodman1204/TRTD/blob/main/dataset/Tweet_merged_50) contains 167, 136 tweets for 164 cluters and each tweet averagely comprises 7.54 words.
-- The Title dataset is not available. 
+- The Title dataset is not available due to unexpected accident. 
 # Results on Tweet dataset
 
 ```
