@@ -1,7 +1,7 @@
 # Discovering Topic Representative Terms for Short Text Clustering (TRTD)
 Source code for paper: "[Discovering Topic Representative Terms for Short Text Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8756216)" 
 
-# How to run
+# Comand to run the script
 ``` python kwg_discovery_clustering.py -d dataset/Tweet_merged_50  --gamma 30 --theta 0.8 --delta 0.1```
 
 # Requirement
@@ -9,7 +9,7 @@ Source code for paper: "[Discovering Topic Representative Terms for Short Text C
 
 # short text dataset
 - The [Tweet dataset](https://github.com/goodman1204/TRTD/blob/main/dataset/Tweet_merged_50) contains 167, 136 tweets for 164 cluters and each tweet averagely comprises 7.54 words.
-- We lost the Title dataset. 
+- The Title dataset is not avaible. 
 # Results on Tweet dataset
 
 ```
